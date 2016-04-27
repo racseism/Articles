@@ -1,2 +1,5 @@
 
 http://www.datasciencecentral.com/profiles/blogs/17-short-tutorials-all-data-scientists-should-read-and-practice
+
+Deep Learning for natural language processing
+cs224d.stanford.edu/index.html
